@@ -1,0 +1,33 @@
+/*
+ *= require font-awesome
+ */
+
+@import "bootstrap";
+@import "div-tables";
+
+body { padding-top: 50px; }
+
+h3 { margin-top: 20px; }
+
+input[type="date"].form-control { line-height: 1.5; }
+
+#manage-account-dropdown { padding-right: 1rem; }
+
+.white {
+    color: white;
+}
+
+.black {
+    color: black;
+  } 
+
+.gray {
+    color: gray;
+  } 
+
+  .witloof {
+    height: auto; 
+    width: auto; 
+    max-width: 400px; 
+    max-height: 300px;
+}
